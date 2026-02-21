@@ -4,10 +4,10 @@ title = 'The Last Byte'
 
 [module]
   [[module.imports]]
-    path = "go.ngs.io/hugo-primer-blog"
+    path = "github.com/hugo-sid/hugo-blog-awesome"
 
 [params]
-  sidebar = true            # Enable/disable sidebar
+  
   recentPostsCount = 5      # Number of recent posts in sidebar module
   defaultTheme = "dark"     # auto, light, or dark
   dateFormat = "2006-01-02"
